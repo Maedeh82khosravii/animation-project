@@ -1,1 +1,1 @@
-# animation-project
+# The first project with animations
