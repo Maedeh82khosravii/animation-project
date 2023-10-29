@@ -1,11 +1,11 @@
 #container{
-    width:75%;
+    width:80%;
     height: 700px;
     background-color: rgb(66, 149, 30); 
     background-repeat: none;
     background-size: cover;
     background-position: center;
-    margin: 20px auto; 
+    margin: 15px auto; 
     display: flex;
     flex-direction: column;
 }
@@ -36,7 +36,7 @@
     width: 400px;
     height: 150px;
     border-radius: 30%;
-    margin-top: 42%;
+    margin-top: 38%;
     margin-left: 70%;
     display: flex;
     text-align: center;
